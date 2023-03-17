@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    /* Size */
+    height: 100vh;
+
+    /* BG */
+    background: linear-gradient(180deg, #594cee 0%, #8dd0f5 100%);
+
+    /* Flex*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
